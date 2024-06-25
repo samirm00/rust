@@ -1,0 +1,26 @@
+# Compiled files
+/target/
+
+# Cargo.lock file is used to record the exact versions of dependencies
+Cargo.lock
+
+# Output files
+*.rs.bk
+
+# IntelliJ IDEA files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Rusty Snake
+/target/
+
+# Cargo build cache
+/target/debug/deps/
+/target/doc/
+/target/examples/
+/target/unused-*/
+
+
+App developers
